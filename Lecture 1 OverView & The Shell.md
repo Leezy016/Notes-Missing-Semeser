@@ -42,4 +42,3 @@ Use `|` and `>` to write the “last modified” date output by `semester`�
 # answer:
 ./semester | grep -i last-modified > ~/last-modified.txt
 ```
-![[Pasted image 20230712165452.png]]
